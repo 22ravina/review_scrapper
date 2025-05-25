@@ -5386,3 +5386,263 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:39:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:39:26] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:39:26] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:39:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:39:36] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:39:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:43:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:43:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:43:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:43:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:43:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:44:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:44:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:44:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:44:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:44:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:44:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:44:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:44:58] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:50:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:50:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:50:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:51:01] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:53:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:55:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:55:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:55:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:55:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:57:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:57:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:57:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:57:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 15:57:05] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-902-796
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:05:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:05:52] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:05:52] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:05:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:05:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:06:05] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:06:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:06:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:06:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:08:21] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:08:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:08:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:08:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:08:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-902-796
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:51:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:51:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:51:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:51:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\royal\PycharmProjects\PythonProject\review-scrapper-aws-main\app.py", line 42, in index
+    productLink = "https://www.flipkart.com" + box.div.div.div.a['href']
+                                               ~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:51:47] "POST /review HTTP/1.1" 200 -
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\royal\PycharmProjects\PythonProject\review-scrapper-aws-main\app.py", line 22, in index
+    uClient = uReq(flipkart_url)
+  File "C:\Program Files\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Program Files\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Program Files\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Program Files\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Program Files\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:51:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-902-796
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:52:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:52:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:52:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\royal\PycharmProjects\PythonProject\review-scrapper-aws-main\app.py", line 42, in index
+    productLink = "https://www.flipkart.com" + box.div.div.div.a['href']
+                                               ~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:52:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-902-796
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\royal\PycharmProjects\PythonProject\review-scrapper-aws-main\app.py", line 42, in index
+    productLink = "https://www.flipkart.com" + box.div.div.div.a['href']
+                                               ~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:53:41] "POST /review HTTP/1.1" 200 -
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\royal\PycharmProjects\PythonProject\review-scrapper-aws-main\app.py", line 42, in index
+    productLink = "https://www.flipkart.com" + box.div.div.div.a['href']
+                                               ~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:53:46] "POST /review HTTP/1.1" 200 -
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\royal\PycharmProjects\PythonProject\review-scrapper-aws-main\app.py", line 42, in index
+    productLink = "https://www.flipkart.com" + box.div.div.div.a['href']
+                                               ~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:54:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-902-796
+INFO:root:Name not found
+INFO:root:Rating not found
+INFO:root:Comment Head not found
+INFO:root:Customer Comment not found
+INFO:root:Final reviews: [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.READ MORE'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Name': 'siva sankar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Photos superREAD MORE'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Name': 'Vikram rapolu', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}, {'Product': 'iphone11', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:56:05] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:56:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:56:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Name not found
+INFO:root:Rating not found
+INFO:root:Comment Head not found
+INFO:root:Customer Comment not found
+INFO:root:Final reviews: [{'Product': 'iphone12', 'Name': 'Anurag Lad', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'The brand is very trustworthy and i got genuine pice at a very low cost.I ordered the green one and trust me the colour was amazing.All the colours but specifically green and purple are nice for look.Thanks to flipkart\u2764\ufe0fREAD MORE'}, {'Product': 'iphone12', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Wow superb camera phone Very smooth speed and no lag , iphone is the king always Its a beautiful productREAD MORE'}, {'Product': 'iphone12', 'Name': 'Vishal Gandhi', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Awesome phone … value for money.. Happy with battery life.. Awesome camera features… look at the images snapped using the phone… easy to use.. Just feared about getting scratch at back glass… but using cover helped it…READ MORE'}, {'Product': 'iphone12', 'Name': 'Akshai Varghese', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Awesome camera performance and improvement in battery capacityREAD MORE'}, {'Product': 'iphone12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'AwesomeREAD MORE'}, {'Product': 'iphone12', 'Name': 'Hariprasad b', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Performance is soooo fastEspecially faceid detection is awesome even in darkNo need to carry an dslr .this is more than enough attaching puc taken by thisREAD MORE'}, {'Product': 'iphone12', 'Name': 'Rupesh Thik', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Awesome CameraREAD MORE'}, {'Product': 'iphone12', 'Name': 'Shivam Kengale', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for itREAD MORE'}, {'Product': 'iphone12', 'Name': 'Manoj Kumar ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'SuperREAD MORE'}, {'Product': 'iphone12', 'Name': 'Jaya chandra  Reddy', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phoneREAD MORE'}, {'Product': 'iphone12', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:56:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:56:41] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:56:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Name not found
+INFO:root:Rating not found
+INFO:root:Comment Head not found
+INFO:root:Customer Comment not found
+INFO:root:Final reviews: [{'Product': 'redmi', 'Name': 'Pankaj Kumar Maurya', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'V good phone in this priceREAD MORE'}, {'Product': 'redmi', 'Name': 'Mohammed Maqbool', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Best product according to priceREAD MORE'}, {'Product': 'redmi', 'Name': 'Harsha Prabha', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'This price range good mobile \U0001f933READ MORE'}, {'Product': 'redmi', 'Name': 'Vinod Dhadbhanjan', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good condition,.Low price but looks 25k mobileEvery one shocking after seen mobile.READ MORE'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Supar mobileREAD MORE'}, {'Product': 'redmi', 'Name': 'Umesh Laha', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'GoodREAD MORE'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Nice \U0001f44dREAD MORE'}, {'Product': 'redmi', 'Name': 'Mithun Nakhawa', 'Rating': '3', 'CommentHead': 'Good', 'Comment': 'Have been using for 6 months now...phone  hangs a lotAlways am getting message system UI not responding.Camera, display and sound are ok considering the priceConfiguration is good as per price.READ MORE'}, {'Product': 'redmi', 'Name': 'Puneet Kataria', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Best mobile at this price thnx Flipkart for this mobileREAD MORE'}, {'Product': 'redmi', 'Name': 'viswanatha reddy', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': "Good product for house wife'sREAD MORE"}, {'Product': 'redmi', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:56:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:56:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:56:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Name not found
+INFO:root:Rating not found
+INFO:root:Comment Head not found
+INFO:root:Customer Comment not found
+INFO:root:Final reviews: [{'Product': 'redmi12', 'Name': 'Prabhat Ranjan', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Best in the market in this price range \U0001f497Loved it !!READ MORE'}, {'Product': 'redmi12', 'Name': 'Pritam Chaudhury ', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': "The phone is too good. I prefer to buy this phone. Low Budget excellent phone. Large Display size and smooth task finishing.. And I'm reviewing this in two days. I have added some photos which are clicked on this phone.THANK YOUREAD MORE"}, {'Product': 'redmi12', 'Name': 'Shadik Hussain', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Nice mobile \U0001f44cREAD MORE'}, {'Product': 'redmi12', 'Name': 'Shahrukh  Pathan', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Good product \U0001f44cREAD MORE'}, {'Product': 'redmi12', 'Name': 'Uddhab Das', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Very good a qualityREAD MORE'}, {'Product': 'redmi12', 'Name': 'Rakesh Sing', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Nice \U0001f44dREAD MORE'}, {'Product': 'redmi12', 'Name': 'Sandis Girish', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Best.... Value of moneyREAD MORE'}, {'Product': 'redmi12', 'Name': 'Rahul kushwah', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Good phoneREAD MORE'}, {'Product': 'redmi12', 'Name': 'Sandeep  Kumar', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Good phone \U0001f4f1 priceREAD MORE'}, {'Product': 'redmi12', 'Name': 'pro haryana', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Nice an good product.READ MORE'}, {'Product': 'redmi12', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:57:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:57:15] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:57:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Final reviews: [{'Product': 'cup', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'superREAD MORE'}, {'Product': 'cup', 'Name': 'Varun Paliwal', 'Rating': '3', 'CommentHead': 'Really Nice', 'Comment': 'Its okay in this price rangeREAD MORE'}]
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:57:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:57:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:57:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Name not found
+INFO:root:Rating not found
+INFO:root:Comment Head not found
+INFO:root:Customer Comment not found
+INFO:root:Final reviews: [{'Product': 'samsungtv', 'Name': 'Sudhaditta Mitra', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Absolutely value for money.READ MORE'}, {'Product': 'samsungtv', 'Name': 'Samir Khata', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Very good HD picture quality  of this TV and timely delivery and installation is very systematic process. Thanks for Flipkart & Samsung team related this item.READ MORE'}, {'Product': 'samsungtv', 'Name': 'Roshan Mandal', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice TV in this priceREAD MORE'}, {'Product': 'samsungtv', 'Name': 'M D Zubair ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice productREAD MORE'}, {'Product': 'samsungtv', 'Name': 'kesavaraman', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product from samsungREAD MORE'}, {'Product': 'samsungtv', 'Name': 'tanmoy roy', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Good\U0001f44dREAD MORE'}, {'Product': 'samsungtv', 'Name': 'Raja  Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Good ProductsREAD MORE'}, {'Product': 'samsungtv', 'Name': 'Soumen Gope', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good quality at this price. Picture quality is very good. Sound quality is also very good.READ MORE'}, {'Product': 'samsungtv', 'Name': 'Swaroop', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Most valuable and Worth Tv 1.video - superb2.sound - Amplifier sound superbREAD MORE'}, {'Product': 'samsungtv', 'Name': 'Velu P', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....READ MORE'}, {'Product': 'samsungtv', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:57:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:57:41] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 16:57:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-902-796
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 17:20:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 17:20:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 17:20:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Name not found
+INFO:root:Rating not found
+INFO:root:Comment Head not found
+INFO:root:Customer Comment not found
+INFO:root:Final reviews: [{'Product': 'samsung', 'Name': 'Pradnik Bhor', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'This is perfect Phone is this segment \U0001f525\U0001f525Best in cameraREAD MORE'}, {'Product': 'samsung', 'Name': 'Vaibhav Patel', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Too good phone and bigg display ossm expressions IREAD MORE'}, {'Product': 'samsung', 'Name': 'Sayan Biswas', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': "The camera quality is awesome\U0001f601 ...the display also awesome\U0001f604...the battery life is too awesome\U0001f603...but only one problem ..u can't do heavy games...\U0001f605All-rounder phone...\U0001f4f1READ MORE"}, {'Product': 'samsung', 'Name': 'Digvijay Patil', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Only heavy weight this is only one drawback ......all phone is awesome and excellent...camera,  display,  battery backup and performance is fantastic and very very awesome love you samsung \U0001f60d\U0001f60d\U0001f60dREAD MORE'}, {'Product': 'samsung', 'Name': 'VEDANT  SHUKLA', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Best Phone In this budget rangeREAD MORE'}, {'Product': 'samsung', 'Name': 'Prakhar Bajpai', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Really good phone I got under 15k...thanks Flipkart...charger not in the box I ordered it from Flipkart in 988 and back cover too in 311 with the phonePhone 10/10Speaker is stereo and bass is very good \U0001f44d,sound is loud and clear 10/10Camera 10/10READ MORE'}, {'Product': 'samsung', 'Name': 'sahel  ghosh', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'I gave 5/5 just reresentating the price point under 15k for this monster from samsung.I know u can get realme, poco, nothing and other options but beleive me premium is always premium...This is the first device from samsung in such a low range where the os (one ui) is faster and fluid with few premium seres features added in, as samsung has not made any compromise with this device for the first time.U are getting bixby with 70% bixby features which generally u get with high range a seres...READ MORE'}, {'Product': 'samsung', 'Name': 'Aman  Sharma ', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'BEST PHONE IN THIS PRICE.....PERFORMANCE IS VERY GOOD...BATTERY BACKUP IS VERY GOOD...DISPLAY IS VERY VERY GREAT N GOOD......CAMERA QUALITY IS EXCELLENT.....~THANK YOU FLIPKART AND SAMSUNG...                                        AMAN SHARMAREAD MORE'}, {'Product': 'samsung', 'Name': 'Swarup Naskar', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'All rounder phone off all time.READ MORE'}, {'Product': 'samsung', 'Name': 'Antar Sarkar', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Here is my opinion about it after using it for almost 1month-1.Design-though the device will be felt bulky for those whose hands are smaller in size but for those having medium or big palm,it is absolutely okk,u will be used to that 222gm of weight,i personally felt the design very attractive,the bezzels are evenly distributed round the phone,2.Display-its the biggest positive of this phone, samsung is known for its super smooth display quality,the 120hz super amoled display is butter smoot...READ MORE'}, {'Product': 'samsung', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 17:20:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 17:20:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 17:20:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
